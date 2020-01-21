@@ -2,3 +2,27 @@
 	text-decoration: line-through; 
 	font-weight: bold;
 }
+
+body{
+	background-color: #efefef;
+		
+}
+
+h2{
+	margin-top: 100px;
+	margin-left: 250px;
+	color: #800000;
+}
+
+p{
+	margin:0px;
+	margin-left:80px;
+color:blue;}
+input{
+	margin: 5px;
+	margin-right: 2px;
+	margin-left: 100px;
+		}
+li {
+	margin-left: 100px;
+}
